@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #31312f;
+}
+
+.ipt-cont {
+  /* height: 5rem; */
+  /* background-color: white; */
+  width: 18rem;
+  /* display: flex; */
+  align-items: center;
+}
+
+.ipt-cont > * {
+  margin-left: 4rem;
+  
+}
+
+.btn-cont{
+  background-color: #777973;
+  width: 15rem;
+  align-items: center;
+}
